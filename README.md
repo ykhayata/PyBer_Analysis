@@ -38,5 +38,14 @@ Drivers per city by city type and total drivers per city type:
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/74481469/102739828-0acb7180-4303-11eb-932d-c4411f9849ad.png)
 
+## Summary 
 
+There are certainly disparities among the city types after doing an in-depth analysis and our next step in the project is to adress these issues, and hopefully guide the CEO in the right direction.
 
+### Recommendations
+
+1) Rural cities consist of only 5% of total rides, 7% of total fares, and 2.6% of the total drivers. But surprisingly, we see that the average fare per ride and average fare per driver is higher than any other city type at $34.62 and $55.49 respectively. I would try and incentivize more drivers to go to these rural areas to better distribute the quantity of drivers, and in return provide them with a higher income per ride, compared to urban and suburban city types. 
+
+2) Suburban city types, like rural, make up a small percentage of rides, fares, and drivers. They make up 26.3% of rides, 30.5% of fares, and 16.5% of drivers. We can also incentive urban drivers to work in suburban cities due to consistent wagers. Based on our data summary, 490 drivers averaged an earning of $39.50, which is significantly higher than the earnings in urban cities.
+
+3) In urban city types, the average fare per ride is significantly lower than other city types, at $24.53. But, there is a significant overflow of drivers to rides. For ever ride, there is 1.48 drivers, much more than we will ever need. We should set a limit of drivers in urban cities, and branch them out to areas where they are more needed, such as rural and suburban cities.  
